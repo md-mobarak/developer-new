@@ -9,6 +9,7 @@ body{font-family: 'Poppins', sans-serif;
   }
   section{
       display: flex;
+      margin-bottom: 100px;
   }
   .half{
       width: 50%;
@@ -30,4 +31,9 @@ body{font-family: 'Poppins', sans-serif;
           background-image: url(images/top-banner.png);
           background-repeat: no-repeat;
           
+      }
+      .dream{background-image: url(images/dream-bg.png);
+        background-repeat: no-repeat;
+        background-position: right;
+
       }
